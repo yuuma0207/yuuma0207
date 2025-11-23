@@ -1,54 +1,87 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-<!--
-**yuuma0207/yuuma0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+yuuma0207+%F0%9F%91%8B;Student+and+Developer+%F0%9F%9A%80;Technology+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuuma0207&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+## 🌟 **About Me: https://yuuma.dev**
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuuma0207&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yuuma0207&theme=juicyfresh&no-bg=true" />
+<table>
+<tr>
+<td width="200" align="center">
+<img src="https://skillicons.dev/icons?i=astro" width="100" height="100" alt="Astro" />
+<br><strong>Astro</strong>
+</td>
+<td width="400" align="left">
 
-## My GitHub Stats
+### 👋 **Hi, I'm yuuma0207!**
+🚀 **Student and Developer**
+
+🌍 **Location:** Japan 🇯🇵  
+💼 **Focus:** Learning internet technology  
+✨ **Powered by:** Curiosity and pleasure  
+🎯 **Goal:** Undefined  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🛠️ **Tech Stack**
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🚀  **Web Development**
+<img src="https://skillicons.dev/icons?i=astro,solidjs,tailwind" />
+
+### ☁️  **X as a Service (XaaS)**
+<img src="https://skillicons.dev/icons?i=supabase,vercel,cloudflare,aws" />
+
+### 🔧  **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🗄️  **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+
+### 💻  **Languages**
+<img src="https://skillicons.dev/icons?i=py,fortran,js,ts,html,css" />
 
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yuuma0207/yuuma0207/output-3d-contrib/day.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yuuma0207/yuuma0207/output-3d-contrib/day.svg" />
-  </picture>
-</p>
+### 🎨  **Interests and Learning**
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
 
-<p align="left" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yuuma0207/yuuma0207/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yuuma0207/yuuma0207/output-3d-contrib/day.svg" />
-  </picture>
-</p>
+## 💭 **Random Dev Quote**
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+  **⭐ From [yuuma0207](https://github.com/yuuma0207) with ❤️**
+  
+  *"Technology makes everything beautiful! 🦋"*
+</div>
